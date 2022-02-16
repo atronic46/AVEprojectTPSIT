@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid green;
+    margin-bottom: 5px;
+}
+
+header img{
+    height: 90px;
+    border: 
+    1px solid red;
+}
+#img-left{
+    position: absolute;
+    float: left;
+}
+#img-right{
+    position: absolute;
+    float: right;
+}
+nav
+{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    border: 1px solid red;
+
+}
