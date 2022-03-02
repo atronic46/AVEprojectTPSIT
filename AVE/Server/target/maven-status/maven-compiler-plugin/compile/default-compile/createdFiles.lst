@@ -1,8 +1,0 @@
-com\mycompany\server\MysqlCon.class
-com\mycompany\server\MQTT$1.class
-com\mycompany\server\Message.class
-com\mycompany\server\Server.class
-com\mycompany\server\Element.class
-com\mycompany\server\QueueMsg.class
-com\mycompany\server\Core.class
-com\mycompany\server\MQTT.class
